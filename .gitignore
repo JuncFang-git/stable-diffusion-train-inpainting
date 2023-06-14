@@ -1,0 +1,7 @@
+models
+__pycache__
+*.pyc
+.vscode/launch.json
+outputs
+personal_workspace/experiments
+personal_workspace/logs
